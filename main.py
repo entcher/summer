@@ -3,5 +3,3 @@ def sum(a, b):
 
 
 print(sum(1, 4))
-
-ssssss
